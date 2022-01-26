@@ -31,14 +31,6 @@
             "helpMarkDown": "A brief text summary of the event, used to generate the summaries/titles of any associated alerts."
         },
         {
-            "name": "timestamp",
-            "type": "string",
-            "label": "Timestamp",
-            "defaultValue": "",
-            "required": false,
-            "helpMarkDown": "The time at which the emitting tool detected or generated the event."
-        },
-        {
             "name": "source",
             "type": "string",
             "label": "Source",
@@ -61,14 +53,6 @@
             "defaultValue": "",
             "required": false,
             "helpMarkDown": "The number of the build."
-        },
-        {
-            "name": "runtime",
-            "type": "string",
-            "label": "Runtime",
-            "defaultValue": "",
-            "required": false,
-            "helpMarkDown": "The amount of time it took the build to run."
         },
         {
             "name": "linkshref",
