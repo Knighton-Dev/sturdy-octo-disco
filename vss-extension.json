@@ -13,14 +13,31 @@
     "categories": [
         "Azure Pipelines"
     ],
+    "tags": [
+        "PagerDuty",
+        "Change Events"
+    ],   
     "icons": {
         "default": "images/extension-icon.png"        
     },
+    "content": {
+        "details": {
+            "path": "README.md"
+        },
+        "license": {
+            "path": "LICENSE.md"
+        }
+    },  
     "files": [
         {
             "path": "buildandreleasetask"
         }
     ],
+    "links": {     
+        "support": {
+            "uri": "https://github.com/Knighton-Dev/sturdy-octo-disco/issues"
+        }
+    }, 
     "contributions": [
         {
             "id": "custom-build-release-task",
