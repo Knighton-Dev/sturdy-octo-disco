@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "id": "send-change-event",
     "name": "PagerDuty Send Change Event",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "publisher": "KnightonDev",
     "targets": [
         {
@@ -21,7 +21,7 @@
         "Public"
     ],
     "branding": {
-        "color": "rgb(1, 58, 29)",
+        "color": "rgb(179, 8, 56)",
         "theme": "dark"
     },   
     "icons": {
