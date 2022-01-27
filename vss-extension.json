@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "id": "send-change-event",
     "name": "PagerDuty Send Change Event",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "KnightonDev",
     "targets": [
         {
@@ -33,7 +33,7 @@
     },  
     "files": [
         {
-            "path": "buildandreleasetask"
+            "path": "sendchangeevent"
         }
     ],
     "links": {     
@@ -53,7 +53,7 @@
                 "ms.vss-distributed-task.tasks"
             ],
             "properties": {
-                "name": "buildandreleasetask"
+                "name": "sendchangeevent"
             }
         }
     ]
