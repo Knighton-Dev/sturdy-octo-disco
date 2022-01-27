@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "id": "send-change-event",
     "name": "PagerDuty Send Change Event",
-    "version": "0.1.4",
+    "version": "1.0.0",
     "publisher": "KnightonDev",
     "targets": [
         {
@@ -37,6 +37,10 @@
         "support": {
             "uri": "https://github.com/Knighton-Dev/sturdy-octo-disco/issues"
         }
+    },
+    "repository": {
+        "type": "git",
+        "uri": "https://github.com/Knighton-Dev/sturdy-octo-disco"
     }, 
     "contributions": [
         {
