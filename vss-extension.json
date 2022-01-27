@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "id": "send-change-event",
     "name": "PagerDuty Send Change Event",
-    "version": "0.1.2",
+    "version": "0.1.4",
     "publisher": "KnightonDev",
     "targets": [
         {

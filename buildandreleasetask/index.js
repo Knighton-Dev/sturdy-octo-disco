@@ -6,12 +6,10 @@ const data = JSON.stringify({
     routing_key: tl.getInput('routingkey', true),
     payload: {
         summary: tl.getInput('summary', true),
-        timestamp: tl.getInput('timestamp', false),
         source: tl.getInput('source', false),
         custom_details: {
             build_state: tl.getInput('buildstate', false),
             build_number: tl.getInput('buildnumber', false),
-            run_time: tl.getInput('runtime', false)
         }
     },
     links: [{
