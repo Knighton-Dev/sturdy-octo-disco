@@ -2,7 +2,7 @@
 
 An Azure Pipelines Task for sending a Change Event message to the [PagerDuty Change Events API](https://developer.pagerduty.com/api-reference/b3A6Mjc0ODEyMQ-create-a-change-event). 
 
-![Change Details Screenshot](images/change-details.png)
+![Change Details Screenshot](https://raw.githubusercontent.com/Knighton-Dev/sturdy-octo-disco/main/images/change-details.png)
 
 ## Introduction
 
@@ -10,7 +10,7 @@ We were in need of a way to send Change Events from our release pipelines to our
 
 ## Arguments
 
-![Example Pipeline Screenshot](images/pipeline-example.png)
+![Example Pipeline Screenshot](https://raw.githubusercontent.com/Knighton-Dev/sturdy-octo-disco/main/images/pipeline-example.png)
 
 *Arguments in **bold** are required.*
 
@@ -26,6 +26,6 @@ We were in need of a way to send Change Events from our release pipelines to our
 
 ## Reporting Failed Releases
 
-![Control Options Screenshot](images/control-options.png)
+![Control Options Screenshot](https://raw.githubusercontent.com/Knighton-Dev/sturdy-octo-disco/main/images/control-options.png)
 
 If you would like to report when a release has failed or canceled, you will need to enable change the `Run this task` option under `Control Options` to `Even if a previous task has failed, even if the deployment was canceled`.
