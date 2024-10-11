@@ -1,3 +1,5 @@
+**Note: This is no longer and hasn't been under any active development for a while. The repo is archived in case anyone wants to come pick up the pieces.**
+
 # Azure Pipelines PagerDuty Send Change Event
 
 An Azure Pipelines Task for sending a Change Event message to the [PagerDuty Change Events API](https://developer.pagerduty.com/api-reference/b3A6Mjc0ODEyMQ-create-a-change-event). 
